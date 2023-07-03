@@ -8,5 +8,8 @@ The proposed method as shown in the figure below , is comprised of five major st
 
 ### UrbanSound8K Dataset
 
-Get your hand on UrbanSound8K dataset from: https://urbansounddataset.weebly.com/download-urbansound8k.html.
+Get your hand on UrbanSound8K dataset from: https://urbansounddataset.weebly.com/download-urbansound8k.html <br>
 Fill the required form fields and proceed donwliading the dataset.
+
+### Run on your machine
+Open the ipynb file and install the necessary modules. Download the sample audio file to check if the code is working or not, then start extractiong the MFCC features (this might take some time). Download a test audio that you wish to use for testing purposes in .wav format, edit the filename for your test audio in the code, the noise should get reduced from your audio then classified.
